@@ -1,0 +1,4 @@
+name: SkyWarsGame
+version: 1.0
+main: me.iamguus.skywars.game.SkyWarsGame
+author: iAmGuus
